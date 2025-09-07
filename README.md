@@ -5,6 +5,7 @@
 💞️ I’m looking to collaborate on **full-stack projects** and **open-source contributions**.  
 📫 How to reach me:https://www.linkedin.com/in/malickabutalaha/ 
 https://github.com/Talha62370
+
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I started in **Mechanical Engineering** and transitioned into **Computer Science & Web Development** 🚀  
 
