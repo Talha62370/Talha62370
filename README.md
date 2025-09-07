@@ -3,7 +3,8 @@
 👀 I’m interested in **Web Development** and building scalable applications.  
 🌱 I’m currently learning **Node.js** and exploring **MERN Stack**.  
 💞️ I’m looking to collaborate on **full-stack projects** and **open-source contributions**.  
-📫 How to reach me: [Your Email or LinkedIn/GitHub links]  
+📫 How to reach me:https://www.linkedin.com/in/malickabutalaha/ 
+https://github.com/Talha62370
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I started in **Mechanical Engineering** and transitioned into **Computer Science & Web Development** 🚀  
 
